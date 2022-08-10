@@ -1,4 +1,4 @@
-# Projetos de Análise de Dados
+# Projetos de Análise de Dados (Repositório em Desenvolvimento)
 Repositório destinado a armazenamento de projetos realizados por mim na área de Análise de Dados (Data Analysis).
 
 ## 📰&nbsp;Introdução:
@@ -28,26 +28,12 @@ Análise de dados é o processo de aplicação de técnicas estatísticas e lóg
 
 ## 🗃️&nbsp;Como os Dados Estão Organizados:
 
-Os Projeto desse Repositórios estão organizados da seguinte forma:
-
-<img alt="Pedro-dados" src="https://github.com/pedrrocabral/Projetos-de-Machine-Learning/blob/a63d158325dab56d9d16a6543d591e1c6c8faf94/img/dados.png">&nbsp;
-Temos uma pasta dados, os estão os arquivos .csv, .db, .txt, .xlsc, entre outros. Esses arquivos representam nossa base de dados trabalhada no modelo de Machine Learning (ML).
-
-
-<img alt="Pedro-modelo" src="https://github.com/pedrrocabral/Projetos-de-Machine-Learning/blob/a63d158325dab56d9d16a6543d591e1c6c8faf94/img/Modelos.png">&nbsp;
-Em seguida, temos os modelos utilizados. Na imagem acima, vemos 3 modelos, que segue um padrão meu para nomenclatura dos mesmos. M = Representa Modelo e o número em seguida o seu "id". Ex: M1 = Modelo 1. Em seguida vem o tipo de algoritmo utilizado, para facilitar a organização dos modelos.
-
-
-<img alt="Pedro-readme" src="https://github.com/pedrrocabral/Projetos-de-Machine-Learning/blob/a63d158325dab56d9d16a6543d591e1c6c8faf94/img/Readme.png">&nbsp;
-Por fim, um README.md para explicar sobre o projeto e tirar as conclusões a respeito dos dados obtidos através dos modelos, quais modelos tiveram melhor performance e porque, entre outros aspectos relacionados ao projeto.
-
-<br>
 
 ## 🗂️&nbsp;Projetos:
 
 <table align="left">
   <thread>
     <th>Projetos</th><th>Links</th>
-    <tr><td>Detecção de Fraude no Cartão de Crédito</td><td><a href="https://github.com/pedrrocabral/Projetos-de-Machine-Learning/tree/main/Projetos/Classifica%C3%A7%C3%A3o/Detec%C3%A7%C3%A3o_de_Fraude_no_Cart%C3%A3o_de_Cr%C3%A9dito">Link</a></td></tr>
+    <tr><td></td><td></td></tr>
   </thread>
 </table>
