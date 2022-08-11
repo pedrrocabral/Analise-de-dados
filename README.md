@@ -46,7 +46,7 @@ Em seguida, temos a Análise. O arquivo se apresenta em formato .ipynb, onde con
 
 <img src="https://github.com/pedrrocabral/Analise-de-dados/blob/73144c97665b4b05f7097a708eb315b03c7831d2/img/readme1.png">
 
-Por fim, um README.md para explicar sobre o projeto e fazer uma análise mais visual do que foi obtido atraves da base de dados.
+Por fim, um README.md para explicar sobre o projeto e fazer uma análise mais visual do que foi obtido através da base de dados.
 
 <br>
 
