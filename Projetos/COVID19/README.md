@@ -1,4 +1,4 @@
-# Análise de Dados da COVID 19
+# Análise de Dados da COVID 19 no 1º Semestre de 2022 no Brasil
 Base de dados: https://covid.saude.gov.br/
 
 ## Introdução:
