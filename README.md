@@ -56,5 +56,6 @@ Por fim, um README.md para explicar sobre o projeto e fazer uma análise mais vi
   <thread>
     <th>Projetos</th><th>Links</th>
     <tr><td>Análise da Ações da Magalu</td><td><a href="https://github.com/pedrrocabral/Analise-de-dados/tree/main/Projetos/A%C3%A7%C3%B5es%20da%20Magalu">Link<a></td></tr>
+    <tr><td>Análise da COVID 19 no 1º Semestre de 2022 no Brasil</td><td><a href="https://github.com/pedrrocabral/Analise-de-dados/tree/main/Projetos/COVID19">Link<a></td>
   </thread>
 </table>
