@@ -29,7 +29,7 @@ Análise de dados é o processo de aplicação de técnicas estatísticas e lóg
 ## 🗃️&nbsp;Como os Dados Estão Organizados:
 Os Projeto desse Repositórios estão organizados da seguinte forma:
 
-<img src="https://github.com/pedrrocabral/Analise-de-dados/blob/73144c97665b4b05f7097a708eb315b03c7831d2/img/dados1.png">
+<img src="https://github.com/pedrrocabral/Analise-de-dados/blob/73144c97665b4b05f7097a708eb315b03c7831d2/img/readme1.png">
 
 Temos uma pasta data, os estão os arquivos .csv, .db, .txt, .xlsc, entre outros. Esses arquivos representam nossa base de dados utilizada para a análise.
 
@@ -44,7 +44,7 @@ Também temos uma pasta img, destinada as imagens da nossa análise, onde teremo
 Em seguida, temos a Análise. O arquivo se apresenta em formato .ipynb, onde contém o script de toda a análise realizada além do passo a passo e ainda conta com uma pequena análise.
 
 
-<img src="https://github.com/pedrrocabral/Analise-de-dados/blob/73144c97665b4b05f7097a708eb315b03c7831d2/img/readme1.png">
+<img src="https://github.com/pedrrocabral/Analise-de-dados/blob/73144c97665b4b05f7097a708eb315b03c7831d2/img/dados1.png">
 
 Por fim, um README.md para explicar sobre o projeto e fazer uma análise mais visual do que foi obtido através da base de dados.
 
